@@ -237,5 +237,7 @@ print(~((filedata > 50) & (filedata < 100)))
 
 #Points to remember:
 #Improve advance indexing concept, the indexing which involves list, didn't understand that much. 
+#link to kaggle notebook of numpy: 
+# https://www.kaggle.com/code/orhansertkaya/numpy-tutorial-for-beginners/notebook
 
 # print(f"*"*20"end" )# how to write *****end***** using format string?
